@@ -1,0 +1,1369 @@
+.navbar {
+	background-color: #fff;
+	border-bottom: 3px solid #bcbbbb;
+}
+
+.title h4 {
+	font-size: 14px;
+	margin-top: -5px;
+}
+
+.title a {
+	color: #bc3105;
+}
+
+.nav a {
+	color: #bc3105;
+}
+
+ul {
+	margin-top: 40px;
+	font-size: 14px;
+}
+
+li {
+	display: inline;
+	padding: 20px;
+}
+
+body {
+	color: #6b6161;
+	font-family: Proxima Nova;
+	padding-top: 74px;
+}
+
+h1,
+h3,
+h4 {
+	font-weight: bold;
+}
+
+p {
+	font-family: open sans;
+}
+
+.background-image {
+	width: 100%;
+	height: 550px;
+	background-image: url("img/SF.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: -75px;
+	background-attachment: fixed;
+}
+
+.background-image h2 {
+	position: absolute;
+	top: 250px;
+	left: 0;
+	width: 100%;
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 50px auto;
+	line-height: 30px;
+	font-size: 22px;
+	text-shadow: 0px 3px  2px #333;
+}
+
+/*PROCESS*/
+
+.Process {
+	color: #6b6161;
+	padding-top: 55px;
+	background-color: #fff;
+}
+
+.Process .method {
+	margin: 0px 140px 0px 140px;
+}
+
+.Process .method p {
+	font-size: 14px;
+}
+
+.Process .Research1 {
+	text-align: center;
+	padding: 20px;
+	min-height: 487px;
+	width: 200px;
+	border-radius: 10px;
+	background-color: #fff;
+}
+
+.Research1:hover {
+	color: #bc3105;
+}
+
+.Process .Ideation1 {
+	text-align: center;
+	padding: 20px;
+	min-height: 487px;
+	width: 200px;
+	border-radius: 10px;
+	background-color: #fff;
+}
+
+.Ideation1:hover {
+	color: #bc3105;
+}
+
+.Process .Iteration1 {
+	text-align: center;
+	padding: 20px;
+	min-height: 487px;
+	width: 200px;
+	border-radius: 10px;
+	background-color: #fff;
+}
+
+.Iteration1:hover {
+	color: #bc3105;
+}
+
+.Process .Reflection1 {
+	text-align: center;
+	padding: 20px;
+	min-height: 487px;
+	width: 200px;
+	border-radius: 10px;
+	background-color: #fff;
+}
+
+.Reflection1:hover {
+	color: #bc3105;
+}
+
+.Process h1 {
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 65px;
+	position: relative;
+	color: #bc3105;
+	letter-spacing: 1px;
+}
+
+.Process h1 span {
+	position: absolute;
+	top:-85px;
+	display: block;
+}
+
+.Process h4 {
+	text-align: center;
+	padding: 0px;
+}
+
+.Process img {
+	background-color: transparent;
+	width: 100px;
+	height: 100px;
+}
+
+.Process p {
+	text-align: left;
+	font-size: 13px;
+}
+
+/*PORTFOLIO*/
+
+.Portfolio {
+	background-color: #fff;
+}
+
+.Portfolio .projects {
+	margin: 0px 100px 0px 100px;
+}
+
+.Portfolio h1 {
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 50px;
+	position: relative;
+	padding-top: 55px;
+	margin-bottom: 60px;
+	letter-spacing: 1px;
+	color: #bc3105;
+}
+
+.Portfolio h1 span {
+	position: absolute;
+	top: -20px;
+	display: block;
+}
+
+.Portfolio h3 {
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+.Portfolio p {
+	text-align: center;
+}
+
+.Portfolio img {
+	height: 250px;
+	width: 350px;
+}
+
+/*SF Triathlon Club Project*/
+
+.SFTriathlonClub img {
+	height: 400px;
+	width: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+.SFTriathlonClub h3 {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.SFTriathlonClub p {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.SFTriathlonClub hr {
+	width: 650px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.SFTriathlonClub h4 {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.SFTriathlonClub h5 {
+	padding-right: 425px;
+	padding-left: 425px;
+}
+
+/*SFMTA Project*/
+
+.SFMTA img {
+	height: 400px;
+	width: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+.SFMTA h3 {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.SFMTA p {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.SFMTA hr {
+	width: 650px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.SFMTA h4 {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.SFMTA h5 {
+	padding-right: 425px;
+	padding-left: 425px;
+}
+
+/*Magic Toy Shop*/
+
+.MagicToyShop img {
+	height: 400px;
+	width: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+.MagicToyShop h3 {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.MagicToyShop p {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.MagicToyShop hr {
+	width: 650px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.MagicToyShop h4 {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.MagicToyShop h5 {
+	padding-right: 425px;
+	padding-left: 425px;
+}
+
+/*Clipper*/
+
+.Clipper1 img {
+	height: 400px;
+	width: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.Clipper1 h3 {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.Clipper1 p {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.Clipper1 hr {
+	width: 650px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.Clipper1 h4 {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.Clipper1 h5 {
+	padding-right: 425px;
+	padding-left: 425px;
+}
+
+/*Snap It*/
+
+.SnapIt img {
+	height: 400px;
+	width: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.SnapIt h3 {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.SnapIt p {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.SnapIt hr {
+	width: 650px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.SnapIt h4 {
+	padding-left: 425px;
+	padding-right: 425px;
+}
+
+.SnapIt h5 {
+	padding-right: 425px;
+	padding-left: 425px;
+}
+
+/*About*/
+
+.About {
+	color: #6b6161;
+	padding-top: 45px;
+	background-color: #fff;
+}
+
+.About h1 {
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 10px;
+	padding-bottom: 75px;
+	position: relative;
+	color: #bc3105;
+	letter-spacing: 1px;
+}
+
+.About h1 span {
+	position: absolute;
+	top: -85px;
+	display: block;
+}
+
+.About .aboutme {
+	margin: 0px 400px 0px 400px;
+}
+
+.About img {
+	width: 350px;
+	height: 350px;
+	margin-left: 100px;
+}
+
+.About h3 {
+	text-align: left;
+	padding-left: 120px;
+	padding-bottom: 50px;
+}
+
+.About p {
+	padding-left: 120px;
+	font-size: 16px;
+	margin-right: 100px;
+}
+
+/*Contact*/
+
+.Contact {
+	color: #bc3105;
+	padding-top: 55px;
+	background-color: #fff;
+}
+
+.Contact h1 {
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 35px;
+	padding-top: 0px;
+	letter-spacing: 1px;
+}
+
+#contact h1 span {
+	position: absolute;
+	top: -85px;
+	display: block;
+}
+
+.Contact h3 {
+	text-align: center;
+	font-family: 'open sans', sans-serif;
+	font-size: 20px;
+}
+
+.Contact h3 a {
+	color: #6b6161;
+	font-family: 'open sans';
+}
+
+.Contact h3:hover {
+	color: white;
+	font-family: 'open sans';
+}
+
+.Contact a:hover {
+	color: #bc3105;
+}
+
+.Contact h4 {
+	text-align: center;
+	font-family: 'open sans', sans-serif;
+	font-size: 20px;
+}
+
+.Contact h4 a {
+	color: #6b6161;
+	font-family: 'open sans';
+}
+
+.Contact h2 {
+	text-align: center;
+	font-family: 'open sans', sans-serif;
+}
+
+/*Footer*/
+
+.Footer p {
+	text-align: center;
+	background-color: #bc3105;
+	height: 45px;
+	margin-bottom: 0px;
+	color: #fff;
+	font-size: 15px;
+	padding-top: 20px;
+}
+
+.Footer a {
+	color: #f4ecec;
+}
+
+/*Footer-Contact Page*/
+
+.Footer1 p {
+	text-align: center;
+	background-color: #bc3105;
+	height: 45px;
+	margin-bottom: 0px;
+	color: #fff;
+	font-size: 15px;
+	padding-top: 20px;
+}
+
+.Footer1 {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.Footer1 a {
+	color: #f4ecec;
+}
+
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+/*==========  Non-Mobile First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	.Process .method {
+		margin: 0 0 0 0;
+	}
+
+	.Portfolio img {
+		height: 210px;
+		width: 294px;
+	}
+
+	.SnapIt h3 {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.SnapIt p {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.SnapIt h4 {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.SnapIt h5 {
+		padding-right: 300px;
+		padding-left: 300px;
+	}
+
+	.Clipper1 h3 {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.Clipper1 p {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.Clipper1 h4 {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.Clipper1 h5 {
+		padding-right: 300px;
+		padding-left: 300px;
+	}
+
+	.SFTriathlonClub h3 {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.SFTriathlonClub p {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.SFTriathlonClub h4 {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.SFTriathlonClub h5 {
+		padding-right: 300px;
+		padding-left: 300px;
+	}
+
+	.SFMTA h3 {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.SFMTA p {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.SFMTA h4 {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.SFMTA h5 {
+		padding-right: 300px;
+		padding-left: 300px;
+	}
+
+	.MagicToyShop h3 {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.MagicToyShop p { 
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.MagicToyShop h4 {
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+	.MagicToyShop h5 {
+		padding-right: 300px;
+		padding-left: 300px;
+	}
+
+	.About h3 {
+		margin-top: 0px;
+		margin-bottom: -30px;
+		padding-left: 140px;
+	}
+
+	.About p {
+		padding-left: 140px;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+	/*body{background-color: red;}*/
+
+	.nav {
+		margin: 0; padding: 0;
+	}
+
+	.nav a {
+		font-size: 15px;
+	}
+
+	.background-image h2 {
+		font-size: 23px;
+	}
+
+	.Process .method {
+		margin: 0 0 0 0;
+	}
+
+	.Process .Research1 {
+		width: 100%;
+		min-height: 200px;
+	}
+
+	.Process .Ideation1 {
+		width: 100%;
+		min-height: 200px;
+	}
+
+	.Process .Iteration1 {
+		width: 100%;
+		min-height: 200px;
+	}
+
+	.Process .Reflection1 {
+		width: 100%;
+		min-height: 200px;
+	}
+
+	.Portfolio img {
+		width: 350px;
+		height: 250px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.Portfolio h3 {
+		text-align: center;
+		font-size: 15px;
+		margin-top: 0px;
+	}
+
+	.Portfolio p {
+		font-size: 12px;
+		margin-top: -10px;
+		margin-bottom: 20px;
+	}
+
+	.SnapIt img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.SnapIt h3 {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.SnapIt p {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.SnapIt hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+		
+	.SnapIt h4 {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.SnapIt h5 {
+		padding-right: 400px;
+		padding-left: 425px;
+	}
+
+	.Clipper1 img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.Clipper1 h3 {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.Clipper1 p {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.Clipper1 hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.Clipper1 h4 {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.Clipper1 h5 {
+		padding-right: 400px;
+		padding-left: 425px;
+	}
+
+	.SFTriathlonClub img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.SFTriathlonClub h3 {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.SFTriathlonClub p {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.SFTriathlonClub hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+		
+	.SFTriathlonClub h4 {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.SFTriathlonClub h5 {
+		padding-right: 400px;
+		padding-left: 425px;
+	}
+
+	.SFMTA img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.SFMTA h3 {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.SFMTA p {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.SFMTA hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+		
+	.SFMTA h4 {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.SFMTA h5 {
+		padding-right: 400px;
+		padding-left: 425px;
+	}
+
+	.MagicToyShop img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.MagicToyShop h3 {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.MagicToyShop p {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.MagicToyShop hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.MagicToyShop h4 {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
+	.MagicToyShop h5 {
+		padding-right: 400px;
+		padding-left: 425px;
+	}
+
+	.About img {
+		margin-left: 200px;
+	}
+
+	.About h3 {
+		margin-left: 70px;
+	}
+}	
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	/*body{background-color: blue;}*/
+
+	.title a {
+		font-size: 20px;
+	}
+
+	.nav a {
+		font-size: 10px;
+	}
+
+	.background-image h2 {
+		font-size: 20px;
+	}
+
+	.Process .method {
+		margin: 0 0 0 0;
+	}
+
+	.Process .Research1 {
+		width: 100%;
+		min-height: 200px;
+	}
+
+	.Process .Ideation1 {
+		width: 100%;
+		min-height: 200px;
+	}
+
+	.Process .Iteration1 {
+		width:100%;
+		min-height: 200px;
+	}
+
+	.Process .Reflection1 {
+		width: 100%;
+		min-height: 200px;
+	}
+
+	.SnapIt img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.SnapIt h3 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SnapIt p {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SnapIt hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.SnapIt h4 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SnapIt h5 {
+		padding-right: 230px;
+		padding-left: 230px;
+	}
+
+	.Clipper1 img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.Clipper1 h3 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.Clipper1 p {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.Clipper1 hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.Clipper1 h4 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.Clipper1 h5 {
+		padding-right: 230px;
+		padding-left: 230px;
+	}
+
+	.SFTriathlonClub img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.SFTriathlonClub h3 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SFTriathlonClub p {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SFTriathlonClub hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+		
+	.SFTriathlonClub h4 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SFTriathlonClub h5 {
+		padding-right: 230px;
+		padding-left: 230px;
+	}
+
+	.SFMTA img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.SFMTA h3 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SFMTA p {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SFMTA hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.SFMTA h4 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SFMTA h5 {
+		padding-right: 230px;
+		padding-left: 230px;
+	}
+
+	.MagicToyShop img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.MagicToyShop h3 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.MagicToyShop p {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.MagicToyShop hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.MagicToyShop h4 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.MagicToyShop h5 {
+		padding-right: 230px;
+		padding-left: 230px;
+	}
+
+	.About img {
+		width: 50%;
+		height: auto;
+	}
+
+	.About h3 {
+		margin-left: 0px;
+		font-size: 20px;
+	}
+
+	.About p {
+		margin-left: 0px;
+		font-size: 14px;
+	}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	/*body{background-color: orange;}*/
+	.title a {
+		font-size: 15px;
+	}
+
+	.background-image {
+		height: 250px;
+		padding-top: 50px;
+	}
+
+	.background-image h2 {
+		top: 70px;
+		margin: 20px auto;
+		line-height: 30px;
+		font-size: 15px;
+		padding: 10px;
+		padding-top: 60px;
+	}
+
+	.SnapIt img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.SnapIt h3 {
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 35px;
+	}
+
+	.SnapIt p {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SnapIt hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.SnapIt h4 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SnapIt h5 {
+		padding-right: 75px;
+		padding-left: 75px;
+	}
+		
+	.Clipper1 img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.Clipper1 h3 {
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 35px;
+	}
+
+	.Clipper1 p {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.Clipper1 hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.Clipper1 h4 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.Clipper1 h5 {
+		padding-right: 75px;
+		padding-left: 75px;
+	}
+
+	.SFTriathlonClub img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.SFTriathlonClub h3 {
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 35px;
+	}
+
+	.SFTriathlonClub p {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SFTriathlonClub hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+		
+	.SFTriathlonClub h4 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SFTriathlonClub h5 {
+		padding-right: 75px;
+		padding-left: 75px;
+	}
+
+	.SFMTA img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.SFMTA h3 {
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 35px;
+	}
+
+	.SFMTA p {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SFMTA hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+		
+	.SFMTA h4 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.SFMTA h5 {
+		padding-right: 75px;
+		padding-left: 75px;
+	}
+
+	.MagicToyShop img {
+		height: 200px;
+		width: 300px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.MagicToyShop h3 {
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 35px;
+	}
+
+	.MagicToyShop p {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.MagicToyShop hr {
+		width: 650px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.MagicToyShop h4 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.MagicToyShop h5 {
+		padding-right: 75px;
+		padding-left: 75px;
+	}
+
+	.About img {
+		width: 250px;
+		height: 250px;
+		margin-left: 80px;
+		margin-top: -50px;
+	}
+
+	.About h3 {
+		margin-left: -40px;
+		font-size: 16px;
+	}
+
+	.About p {
+		margin-left: -20px;
+		font-size: 12px;
+	}
+
+	.Contact h3 {
+		font-size: 20px;
+	}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+    /*body{background-color: yellow;}*/
+}
